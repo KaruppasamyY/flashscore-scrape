@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+lxml
+flask
+python-dotenv
+openai
+pinecone
+tqdm
+uvicorn
+fastapi
+pandas 
+openpyxl
+gspread 
+google-auth 
+pandas
+selectolax

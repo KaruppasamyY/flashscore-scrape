@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flashscore-scraper-i7",
+  "private_key_id": "0e2298df8e9613f5d29e645c983f4b50e57d0e72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC5iLutz0Tjf/G8\n/+ly46xeVS0BI+65CG+Hzc//P0vMJpoAzwCY47K23Pk26zUttFtaW/M/bdAvlIpk\noq+KV7KnPv1FvUdW1HBK4Ed5T+SAqvkDEyR79NqggkZVeEaOP7B8mPnDo79Jf9R+\n+MzNcLzn9sKtXipoLmqxAllemQd0nicNXwdCuhnbH9m/BJ9jqeL8iR7PSOvIZg2n\nyJ9rvUbQ9EDPKhE+BtHjOLv+thqtbdkAdv5P0awlQRtj6UyLFf0YFn9ZDRE5z1zT\nAuRXGMB48M8vCMs4WXk24eC8IOaG8EyAbRubyCklzKlKUdxVI/zmJzbnldJpMTs2\nk9ieAjP7AgMBAAECggEAVhN2pxOjLTzdpUbBQtkXzggMQhwuk8+zFrlIh24RN1yt\nVDS1XTk+X5IzWORUnqivPUOtnb7PuFNcxYWolTFMpEUX8fP3lfQnSMW2wzRqmbs4\nndGSuqOFjrQB94M+kJ5Bvfym27orc+kHaAT711A3hBK6jP5EBGOMgiTJ25Z5nAM8\nvHZDAtx+sBp6BX3AtxsuV7FojIjIUkSQx1P1zLSk84Qs2WUm7EBKqNOofSwl2Tcn\nTYQv1YQEccN0RvKfaDqy0OyL3bNIJpcs/+6RP1BCqlTm+DC8+Z1sOwlSDAdOVJfE\nxqINCdLri8rq5GNrRLGLPTtWYpBZbPJeqhLoeD55KQKBgQDtT8Ive7UDG0eaIGou\ncYa6ZvegNzkOMmnYZHkN8YT/9EUGlYGDMMSb5Rmw33RHUY3e+9GHq3wTsr0noS0u\ng4k+t9H2nFvktukhnaCTkCqrIfHR7I16toCEPIGe0DQ6/x9OCKYJi2EfcEbDoFM6\nysMoeR7lDByjnr9lAZS+ItQkrQKBgQDIJSHrkAbaNPpOFbW19GLiGrGdDoyWWuWb\n+bECDRsJxqhWSqY4T5hrrxMiqBAdoC8EH+E9eZJ2LDZJ8OaVR0tQZKJsceYgXOG9\nFuRDX7v6ZFP5kjOaT6EV2DRQhtoRZqRd3iU42JsPWCDQMPnkxUioUTE1ebcABF2D\n00O8alUoRwKBgQDhgcpQnuiK1DB9aNId4imaFmC3ceKY+BUW2ZsjQeAV7cRuFkIl\nLYGXduSr7But7fS38WnR14YnndEbyJCLw9j2rW0rQLgeJiZxmD1QHE4/oxkNWBG1\ni5mij3DJPqZzbZ4M5DELntQjMOk92qtckfNUEYznMVRBs4fC7vaum6AmXQKBgQC5\nIcffiokcHHcP9XrwxQ8WkJSMb6HRjmDnRy7Zc9/3yf96WnCok8+sg/RSUV0e2kXD\nLe3+HE9C6iCJgsD3gkwDICMx5qV0eBYC/4LDY3GQ6m7W4srCyTd66lNxzVs3T1do\n0IxjqdC8f8tSaIsuduJ/dyLqkRyacm9B+hCk30LIDwKBgQCPgWhX1Ur+u6/IxWeb\nbCYZ+74CDKvSSJhDtMLbvoQ4MteWD4LjYslr7+kuWtdyEdi6u/dfp1a7zVXQo8G9\naQlSrfH6vgiljoxNVMcaAMX7QxAmSV2lM+f65TSJb3bgfcg6fzRVCOWmM55+tvEY\nQdv1Q6OBm6F9EcRpP2tkbg8/bA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yogan-ai-project@flashscore-scraper-i7.iam.gserviceaccount.com",
+  "client_id": "104353841519714162501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yogan-ai-project%40flashscore-scraper-i7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
